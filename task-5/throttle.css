@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.2rem;
+  z-index: 1000;
+}
+
+.content {
+  height: 3000px;
+  background: linear-gradient(180deg, #f6f8fa 0%, #d1d5db 100%);
+}
