@@ -4,7 +4,7 @@ JavaScript utilities and tagged templates. Each task is organized into its own f
 ## Project Structure
 
 ```
-/homework6
+/templatify
 ├── task-1
 │   └── localize.js
 ├── task-2
